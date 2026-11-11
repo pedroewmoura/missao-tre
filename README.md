@@ -75,4 +75,4 @@ Acesse a aplicação no navegador em `http://localhost:5173`.
 * **Consulta de Polos:** Busca por número do polo e listagem de cidades da regional.
 * **Cadastro de Usuários:** Criação e listagem de operadores com validação de CPF e formulários.
 =======
-# missao-tre
+

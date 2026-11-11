@@ -244,8 +244,10 @@ const pesquisar = async () => {
 }
 
 .header-section h1 {
+  margin-top:4rem ;
   margin-bottom: 0.5rem;
   color: #1c2f50;
+
 }
 
 .card {

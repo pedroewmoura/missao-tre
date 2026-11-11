@@ -260,8 +260,9 @@ const secoesPaginadas = computed(() => {
 
 .header-section h1 {
   margin: 0;
+  margin-top: 4rem;
   color: #1c2f50;
-  font-size: 1.75rem;
+  font-size: 2rem;
 }
 
 .card {

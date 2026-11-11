@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🏛️ Missão TRE - Sistema de Consulta Eleitoral
 
 Sistema full stack desenvolvido para consulta eleitoral (Polos, Zonas, Municípios e Seções Eleitorais) e gerenciamento de usuários.
@@ -76,4 +76,3 @@ Acesse a aplicação no navegador em `http://localhost:5173`.
 * **Cadastro de Usuários:** Criação e listagem de operadores com validação de CPF e formulários.
 =======
 # missao-tre
->>>>>>> 331df8dd7518c83679ab30e669b1f6d8b1e60fad
